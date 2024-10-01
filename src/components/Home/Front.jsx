@@ -26,7 +26,7 @@ export default function Front() {
             )}
           </div>
           <article className="lg:flex hidden items-end absolute top-[30%] right-0 w-[30%] border-l-2 h-1/2 px-2 border-l-white">
-            <div className="text-white text-[26px] w-[80%]">
+            <div className="text-black text-[26px] w-[80%]">
             No matter how much cricket you have played you are always learning.
             </div>
           </article>
