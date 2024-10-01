@@ -6,7 +6,7 @@ import funds_5 from "./funds_5.png";
 import funds_6 from "./funds_6.png";
 import funds_7 from "./funds_7.png";
 import funds_8 from "./funds_8.png";
-import front_world from "https://image.api.playstation.com/vulcan/ap/rnd/202309/0813/6396bfa093f386d2bdf57015a6726cda4d397cb891467acf.jpg";
+import front_world from "front_world.png";
 import logo from "./logo.jpg";
 import quiz_illustration from "./quiz_illustration.png";
 import quiz_bg from "./quiz_bg.png";
